@@ -4,13 +4,22 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Contact App
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi Kontak adalah aplikasi mobile yang dirancang untuk menyimpan, mengelola, dan mengakses informasi kontak pengguna. 
+Aplikasi ini dibuat oleh kelompok kami yang terdiri dari:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Naesya Qonitha (2307411037)
+Najma Gusti Ayu Mahesa (2307411050)
+Melvin Okniel Sinaga (2307411061)
+Dalam proyek ini, kami menggunakan framework Flutter untuk membangun antarmuka pengguna dan penyimpanan lokal untuk menyimpan data kontak. 
+Aplikasi ini memungkinkan pengguna untuk menambahkan, mengedit, dan menghapus kontak, serta menyimpan informasi seperti nama dan nomor telepon.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknologi yang Digunakan
+1. Flutter
+2. Penyimpanan Lokal (Shared Preferences / File Storage)
+3. Dart
+
+## Tujuan
+
+Tujuan dari proyek ini adalah untuk pemenuhan nilai tugas mata kuliah Mobile Programming dalam membuat aplikasi kontak yang sederhana dan intuitif, serta mempelajari cara menggunakan framework Flutter dan penyimpanan lokal dalam pengembangan aplikasi mobile.
